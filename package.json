@@ -1,15 +1,23 @@
 {
   "name": "js9-npm",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "i": "node index.js",
     "web": "node web-serv.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/torkotiuk/js9-npm.git"
+  },
   "keywords": [],
   "author": "Andrii Torkotiuk <torkotiuk@gmail.com>",
   "license": "ISC",
-  "description": "",
+  "bugs": {
+    "url": "https://github.com/torkotiuk/js9-npm/issues"
+  },
+  "homepage": "https://github.com/torkotiuk/js9-npm#readme",
   "dependencies": {
     "express": "^4.17.1",
     "validator": "^13.5.2"
