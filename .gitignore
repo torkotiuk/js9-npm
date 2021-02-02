@@ -1,3 +1,5 @@
+# my lines to gitignore
+node_modules/
 # Logs
 logs
 *.log
